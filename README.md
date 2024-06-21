@@ -12,3 +12,6 @@ upload git email so that I can invite
 
 ---
 0x47005c034930f4cf6dbaf9da8e0696a22bf0d8ae bep20 200usdt
+---
+assassin skype
+live:.cid.e01a0495223b657c
