@@ -16,5 +16,5 @@ upload git email so that I can invite
 assassin skype
 live:.cid.e01a0495223b657c
 
-Logged in the anydesk.
-But I can't control.
+---
+trx has 550 usdt
