@@ -18,3 +18,7 @@ live:.cid.e01a0495223b657c
 
 ---
 trx has 550 usdt
+
+KJC have checked the telegram bot.
+He has experience in building telegram bot.
+But can't do it.
