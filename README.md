@@ -8,5 +8,7 @@ saveTime1210!
 trc TESwVRKH7VtRbdT5KfRRmicHwZ7sdoSnVH
 ---
 USA anydesk: pin code:
+1602719641(US.com)
+Anydesk2024@
 
-what is valid pp email for assassin
+assassin sent to icss9191@gmail.com, 250$
