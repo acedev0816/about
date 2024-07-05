@@ -1,2 +1,2 @@
 @SirAladin
-We should turn on camera. we can't do it.
+I can't have any data for previous work.
