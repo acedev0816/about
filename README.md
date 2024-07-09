@@ -1,2 +1,3 @@
-@pedro77h This is developer ID.
-He didn't reply yet.
+oh don`t answer on only certain things.
+
+about I need answer about all questions
