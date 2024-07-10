@@ -1,6 +1,6 @@
 -To Acer!!!(Urgent must be done at 4p.m)
 
-Tech call has to be done tomorrow.(we are getting really close to getting a job)
+Tech call has to be done today.(we are getting really close to getting a job)
 
 About Ethereum, Solidity, Smart contract. 
 
