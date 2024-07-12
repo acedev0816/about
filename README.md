@@ -6,6 +6,6 @@ acer, i invite you new group for creating accounts. pls work here with them...
 
 bear, ask superman that he has shopify task............
 
-ALL are come out at 4.30 for football!!!!!!!!!!!!!-if you see it, pls delete it
+ALL are come out at 4.30 pm for football!!!!!!!!!!!!!-if you see it, pls delete it
 
 
