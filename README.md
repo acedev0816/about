@@ -6,5 +6,7 @@ I found the solution, I will try and let you know about that.
 He can't login Klaviyo account because when login, they need the verification code.
 He can't login the Client's Klaviyo account
 
+so don`t ask to cryto?
+
 live:.cid.209689778b8ed4
 ramjai0108
