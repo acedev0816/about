@@ -1,7 +1,4 @@
 0x70002be10ebA173b858bBf55f00057854dF809BA
 BEP20, ERC20
 
-TBx5gz7BTvrKUpqseXM2debMsZnezyFwDD
-TRC20
-
-8350
+https://tronscan.org/#/transaction/d93483dd2b5f36af9533d62503af30ba8fa7734daff5d5a6858a70eeddb5acc9
