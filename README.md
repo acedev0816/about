@@ -1,2 +1,2 @@
-TT1WVgrAJK3yWBVxxMnQpk6pX3pkSWsKSw<br>
-(16055 + 950*2)/0.88 = 20403.5
+TM2stmQYAZafnqikusyBgftrJTzG8MmqcD<br>
+1100
