@@ -6,3 +6,4 @@
 - add product history tab
 
 Total 30 hours (540$)
+client paypal: support@giftrepublic.com
