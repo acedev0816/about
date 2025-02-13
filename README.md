@@ -1,2 +1,8 @@
-TT1WVgrAJK3yWBVxxMnQpk6pX3pkSWsKSw<br>
-12631
+- add disabled products to categories
+- highlight text and include a button to add a link
+- dynamically add products to categories
+- include video to products (frontend, admin)
+- add seasonLaunched
+- add product history tab
+
+Total 30 hours (540$)
