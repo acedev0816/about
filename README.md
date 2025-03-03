@@ -2,12 +2,18 @@ TM2stmQYAZafnqikusyBgftrJTzG8MmqcD
 1500
 
 <br/>
-- add disabled products to categories
-- highlight text and include a button to add a link
-- dynamically add products to categories
-- include video to products (frontend, admin)
-- add seasonLaunched
-- add product history tab
+- product feed
+- implement voucher based on category, category child and selected products
+- validate fields in product create/update
+- highlight already selected products in category edit
+- validate fields in product create/update
+- head copy(frontend, admin)
+- nav bar
+- checkout page, checkout sizing
+- mobile issue fix
+- voucher download
+- sql script using python
+
 
 Total 30 hours (540$)
 client paypal: support@giftrepublic.com
