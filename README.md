@@ -1,3 +1,7 @@
+TM2stmQYAZafnqikusyBgftrJTzG8MmqcD
+1500
+
+<br/>
 - add disabled products to categories
 - highlight text and include a button to add a link
 - dynamically add products to categories
