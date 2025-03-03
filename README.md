@@ -15,5 +15,5 @@ TM2stmQYAZafnqikusyBgftrJTzG8MmqcD
 - sql script using python
 
 
-Total 30 hours (540$)
+Total 36 hours (648$)
 client paypal: support@giftrepublic.com
