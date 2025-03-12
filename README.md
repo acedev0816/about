@@ -1,19 +1,5 @@
-TM2stmQYAZafnqikusyBgftrJTzG8MmqcD
-1500
-
-<br/>
-- product feed
-- implement voucher based on category, category child and selected products
-- validate fields in product create/update
-- highlight already selected products in category edit
-- validate fields in product create/update
-- head copy(frontend, admin)
-- nav bar
-- checkout page, checkout sizing
-- mobile issue fix
-- voucher download
-- sql script using python
-
-
-Total 36 hours (648$)
-client paypal: support@giftrepublic.com
+TT1WVgrAJK3yWBVxxMnQpk6pX3pkSWsKSw <br>
+(10447 + 950) / 0.88 = 12952 <br>
+<br>
+TESwVRKH7VtRbdT5KfRRmicHwZ7sdoSnVH<br>
+200
