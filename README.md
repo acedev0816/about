@@ -1,2 +1,2 @@
-TM2stmQYAZafnqikusyBgftrJTzG8MmqcD <br>
-2300
+TT1WVgrAJK3yWBVxxMnQpk6pX3pkSWsKSw <br>
+1150 * 10 / 0.88 = 13070
