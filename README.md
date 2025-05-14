@@ -1,2 +1,2 @@
-TT1WVgrAJK3yWBVxxMnQpk6pX3pkSWsKSw <br>
-1150 * 10 / 0.88 = 13070
+ibrahimsyed@giftrepublic.com <br>
+200
