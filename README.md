@@ -1,5 +1,5 @@
 support@giftrepublic.com <br>
-GiftRepublic Work(4/6-6/1, 65hrs, 1170) <br>
+GiftRepublic Work(4/6-6/1, 65hrs, 1170$) <br>
 extra feedback on rewards page <br>
 blog page seo <br>
 no index pages	<br>
