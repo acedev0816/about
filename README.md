@@ -1,2 +1,2 @@
-TM2stmQYAZafnqikusyBgftrJTzG8MmqcD<br>
-2400
+TT1WVgrAJK3yWBVxxMnQpk6pX3pkSWsKSw<br>
+(1150 * 6.7 -1080) / 0.88 =7529
